@@ -6,7 +6,7 @@ in software delivery. This project is going to mirror such scenario as close as 
 upgrade is a new version of this project.
 
 ## checklist for migration
-- [ ] move project to nestjs
+- [x] move project to nestjs
 - [ ] multi-version support
 - [ ] define dtos
 - [ ] implement service layer
