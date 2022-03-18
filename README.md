@@ -7,11 +7,11 @@ upgrade is a new version of this project.
 
 ## checklist for migration
 - [x] move project to nestjs
-- [ ] multi-version support
-- [ ] define dtos
-- [ ] implement service layer
+- [x] multi-version support
+- [x] define dtos
+- [x] implement service layer
 - [ ] unit test service layer
-- [ ] implement resolvers
+- [x] implement resolvers
 - [ ] integration test for resolvers
 - [ ] containerization (docker)
 - [ ] multi-instance (kubernetes)
